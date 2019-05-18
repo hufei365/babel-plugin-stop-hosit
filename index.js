@@ -99,7 +99,7 @@ module.exports = function({ types: t }) {
 								])
 							);
 
-							path.unshiftContainer('body', newRa);
+							// path.unshiftContainer('body', newRa);
 
 							// path.node.body = [ newRa ];
 						}
